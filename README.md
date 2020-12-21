@@ -89,4 +89,4 @@ start "http://localhost:3000"
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte [LICENÇA](https://https://github.com/HeitorAugustoLN/Ecoleta/blob/master/LICENSE) para obter detalhes.
+Este projeto está sob a licença MIT. Consulte [LICENÇA](https://github.com/LeonardoCosta90/NLW01/blob/master/LICENSE) para obter detalhes.
