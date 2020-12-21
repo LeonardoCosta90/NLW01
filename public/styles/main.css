@@ -1,23 +1,45 @@
 :root {
   --title-color: #322153;
   --primary-color: #34cb79;
+  --background-color: #f0f0f5;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 html {
   font-family: Roboto, sans-serif;
 }
+
+body {
+  background: #2193b0; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #6dd5ed,
+    #2193b0
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #6dd5ed,
+    #2193b0
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  -webkit-font-smoothing: antialiased;
+}
+
 a {
   text-decoration: none;
-  -webkit-font-smothing: antialiased;
 }
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: "Ubuntu", sans-serif;
+  font-family: Ubuntu, sans-serif;
   color: var(--title-color);
-}
-body {
-  background: #f0f0f5;
 }
