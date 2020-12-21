@@ -7,11 +7,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/HeitorAugustoLN/Ecoleta?color=7159C1&style=for-the-badge" alt="Licensa do projeto">
+  <img src="https://img.shields.io/github/license/LeonardoCosta90/Ecoleta?color=7159C1&style=for-the-badge" alt="Licensa do projeto">
 
-  <img src="https://img.shields.io/github/repo-size/HeitorAugustoLN/Ecoleta?color=7159C1&style=for-the-badge" alt="Tamanho do projeto">
+  <img src="https://img.shields.io/github/repo-size/LeonardoCosta90/Ecoleta?color=7159C1&style=for-the-badge" alt="Tamanho do projeto">
 
-  <img src="https://img.shields.io/github/languages/count/HeitorAugustoLN/Ecoleta?color=7159C1&style=for-the-badge" alt="Quantidade de Linguagens">
+  <img src="https://img.shields.io/github/languages/count/LeonardoCosta90/Ecoleta?color=7159C1&style=for-the-badge" alt="Quantidade de Linguagens">
 </p>
 
 <p align="center">
